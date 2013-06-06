@@ -8,5 +8,6 @@ return $post_info;
 
 
 /** Code to remove post info */ 
-
 remove_action( 'genesis_before_post_content', 'genesis_post_info' );
+
+
